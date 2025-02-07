@@ -1,0 +1,15 @@
+{
+    "name":"HaHaTab",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "description":"Created with ❤️ by Sahil",
+    "action":{
+        "default_popup":"index.html"
+    },
+    "icons":{
+        "16":"smile.png",
+        "48":"smile.png",
+        "128":"smile.png"
+    }
+    
+}

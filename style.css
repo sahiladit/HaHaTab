@@ -1,0 +1,33 @@
+
+body {
+    font-family: "Dosis", serif;
+    font-optical-sizing: auto;
+    border-radius: 1rem;
+  }
+*{
+    font-family:"Dosis",serif;
+}
+#getJokeBtn{
+    background-color: rgb(203, 203, 255);
+    padding: 1rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top:80%;
+}
+
+nav{
+    background-color: #333D79;
+    color:white;
+}
+
+#content{
+    padding-left: 1rem;
+    padding-right:0.5rem ;
+    background-color: #FFB84C;
+}
+
+#foot{
+    top:92%;
+}
