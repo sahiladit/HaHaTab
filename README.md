@@ -9,3 +9,4 @@ Steps to Download the extension :
 3.Enable Developer Mode
 4.Drag & Drop the .CRX file onto the Extensions page
 5.Click "Add Extension"
+
